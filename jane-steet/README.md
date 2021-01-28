@@ -18,7 +18,7 @@
 
 ### 2. Gradient Boosting
 
-GB算费原理：
+GB算法原理：
 
 参数空间转换到函数空间。
 
